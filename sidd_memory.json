@@ -1,0 +1,38 @@
+{
+  "user_profile": {
+    "name": null,
+    "nickname": null
+  },
+  "notes": [],
+  "learned_responses": [
+    {
+      "query": "how are you",
+      "response": "I'm fine, How about you!"
+    },
+    {
+      "query": "what is your name",
+      "response": "I am Sidd, your personal assistent!"
+    },
+    {
+      "query": "virat kohli",
+      "response": "about virat kohli"
+    },
+    {
+      "query": "who is dhoni",
+      "response": "tell me about"
+    },
+    {
+      "query": "question",
+      "response": "amitabh chahie"
+    },
+    {
+      "query": "last last",
+      "response": "class 12 equal to"
+    }
+  ],
+  "conversation_context": {
+    "last_topic": null,
+    "last_action": null,
+    "mood": "neutral"
+  }
+}
