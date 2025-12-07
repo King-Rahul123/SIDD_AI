@@ -12,22 +12,6 @@
     {
       "query": "what is your name",
       "response": "I am Sidd, your personal assistent!"
-    },
-    {
-      "query": "virat kohli",
-      "response": "about virat kohli"
-    },
-    {
-      "query": "who is dhoni",
-      "response": "tell me about"
-    },
-    {
-      "query": "question",
-      "response": "amitabh chahie"
-    },
-    {
-      "query": "last last",
-      "response": "class 12 equal to"
     }
   ],
   "conversation_context": {
